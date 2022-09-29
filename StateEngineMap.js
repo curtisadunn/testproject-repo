@@ -5,7 +5,7 @@ _ws.stateEngine_firstState = 'AF1000_What_To_Collect';
 _ws.stateEngine_Map = new Object();
 	_ws.stateEngine_Map['AF1000_What_To_Collect']         = 'AF1000_What_To_Collect';
 
-	_ws.stateEngine_Map['AF1050_Get_DOB']                 = 'AF1050_Get_DOB';
+	//_ws.stateEngine_Map['AF1050_Get_DOB']                 = 'AF1050_Get_DOB';
 
 	_ws.stateEngine_Map['AF1100_Get_Full_SSN']            = 'AF1100_Get_Full_SSN';
 
