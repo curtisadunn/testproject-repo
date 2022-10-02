@@ -7,7 +7,7 @@ _ws.stateEngine_Map = new Object();
 
 	//_ws.stateEngine_Map['AF1050_Get_DOB']                 = 'AF1050_Get_DOB';
 
-	_ws.stateEngine_Map['AF1100_Get_Full_SSN']            = 'AF1100_Get_Full_SSN';
+	//_ws.stateEngine_Map['AF1100_Get_Full_SSN']            = 'AF1100_Get_Full_SSN';
 
 	_ws.stateEngine_Map['AF1150_Get_Generic_NDigit']      = 'AF1150_Get_Generic_NDigit';
 
